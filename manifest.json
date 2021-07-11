@@ -1,0 +1,11 @@
+{
+    "name": "Максим Мосин - Разработчик Python",
+    "short_name": "Максим Мосин",
+    "description": "Backend-разработчик на Python из России",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "browser",
+    "orientation": "any",
+    "theme_color": "#FF00F0",
+    "background_color": "#000"
+}
